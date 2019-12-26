@@ -1,0 +1,2 @@
+#compdef ssh-close
+_arguments "1:socket:_path_files -W ${HOME}/.ssh -g \"socket-*\""
